@@ -2,12 +2,6 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
-/* NAVBAR */
-
-.navbar-brand h1{
-  font-weight:bold;
-}
-
 /* Hero Section */
 
 #Hero-Section {
@@ -25,11 +19,8 @@ body {
 
 /* Mis trabajos */
 
-#Mis-trabajos .image-top {
-  height: 250px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+#Mis-trabajos img {
+  width: 100%;
 }
 
 /* Contacto */
