@@ -2,6 +2,12 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+/* NAVBAR */
+
+.navbar-brand h1{
+  font-weight:bold;
+}
+
 /* Hero Section */
 
 #Hero-Section {
@@ -9,6 +15,12 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+}
+
+.parrafo-especial {
+  width: 600px;
+  margin-left: 150px;
+  background-color: rgba(253, 253, 253, 0.503);
 }
 
 /* Mis trabajos */
